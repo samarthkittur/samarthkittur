@@ -8,3 +8,4 @@
 samarthkittur/samarthkittur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+![alt text](https://miro.medium.com/max/700/1*GbwKkmA0NdndXRhOOwNclA.jpeg)
