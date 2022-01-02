@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @samarthkittur
 - 👀 I’m interested in Python and ML
-- 🌱 I’m currently learning PyTorch
-- 💞️ I’m looking to collaborate on building Transformers
+- 🌱 I’m currently learning PyTorch. I am trying to understand the mathematics of Deep Learning
+- 💞️ I’m looking to collaborate on experimenting with Deep Learning algorithms.
 - 📫 How to reach me ...
 
 <!---
